@@ -1,0 +1,9 @@
+{
+  "appId": "com.pribadi.gplabdlms",
+  "appName": "GP LAB DLMS",
+  "webDir": "www",
+  "server": {
+    "url": "https://github.io",
+    "cleartext": true
+  }
+}
